@@ -8,9 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data analytics**
 
-- 💬 Ask me about **Python, MS Excel, SQL, Tableau**
+- 💬 Ask me about **Python, MS Excel, SQL, Tableau, PySpark, DataBricks**
 
 - 📫 How to reach me **balajibalaji036@gmail.com**
 
@@ -51,9 +50,6 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
   </a>
-  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sublime/sublime-original.svg" alt="sublime-text" width="40" height="40"/> 
-  </a>
   <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> 
     <img src="https://avatars.githubusercontent.com/u/27004866?s=200&v=4" alt="snowflake" width="40" height="40"/> 
   </a>
@@ -62,15 +58,6 @@
   </a>
   <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" width="40" height="40"/> 
-  </a>
-  <a href="https://cyberduck.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://cyberduck.io/images/cyberduck-icon-256.png" alt="cyberduck" width="40" height="40"/> 
-  </a>
-  <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/> 
-  </a>
-  <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/D/databricks-logo-62562C2E27-seeklogo.com.png" alt="databricks" width="40" height="40"/> 
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> 
     <img src="https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png" alt="jira" width="40" height="40"/> 
